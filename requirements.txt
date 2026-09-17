@@ -1,0 +1,42 @@
+# Configuration and validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# Data and machine learning
+pandas
+numpy
+scikit-learn
+joblib
+
+# API and UI
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+
+# Agent orchestration
+langchain
+langgraph
+langchain-openai
+langsmith
+
+# RAG
+langchain-community
+langchain-huggingface
+sentence-transformers
+chromadb
+langchain-chroma
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Testing and code quality
+pytest
+pytest-asyncio
+httpx
+ruff
+
+# External API
+requests

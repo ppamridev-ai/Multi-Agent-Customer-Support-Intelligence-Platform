@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+
+# Generated data
+data/processed/
+artifacts/
+models/
+vector_store/
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LangSmith and MLflow
+mlruns/
+
+# Schema Validation code
+src/data_preparation/schema_validation.py
+
+# Data Leakage prevention code
+src/classification/check_leakage.py
+src/data_preparation/groupshuffle_splits.py
