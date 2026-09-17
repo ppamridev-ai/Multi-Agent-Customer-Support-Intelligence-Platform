@@ -364,4 +364,6 @@ Template-aware evaluation was explored separately and showed reduced performance
 
 ## License
 
-This project is intended for educational and portfolio use. Add an appropriate open-source license before redistributing or accepting external contributions.
+This project is intended for educational and portfolio use. 
+MIT License
+Copyright (c) 2026 Amritha
